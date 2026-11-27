@@ -1,2 +1,1 @@
-# foundry trc20
-monitor TCjftgZQjhFBnohoQiRjLgjZEazGSiHccu
+TCjftgZQjhFBnohoQiRjLgjZEazGSiHccu
